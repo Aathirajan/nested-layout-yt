@@ -1,0 +1,60 @@
+.search {
+
+    display: block;
+    margin-bottom:10px;
+
+   
+}
+
+.nested {
+
+    display: inline-block;
+    /* margin-top: 25px; */
+    width: 325px;
+
+}
+.thumbnail{
+    width:315px;
+    border-radius:10px;
+}
+
+.dpdiv {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 14px;
+}
+
+.dp {
+    border-radius: 50%;
+    width: 40px;
+
+
+}
+
+.info {
+    display: inline-block;
+    width:275px;
+    margin-left:5px;  
+      }
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top:8px;
+    margin-bottom:5px;
+}
+
+.creator {
+    color: rgb(96, 96, 96);
+    font-size: 15px;
+
+    margin-top:10px;
+    margin-bottom:0px;
+}
+
+.views {
+    color: rgb(96, 96, 96);
+    margin-top:3px;
+    font-size: 15px;
+
+}
